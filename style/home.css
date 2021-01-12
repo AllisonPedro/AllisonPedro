@@ -136,6 +136,7 @@ button:active{
 /* Estilo da imagem de fundo do banner*/
 
 .imgbg{
+	background-image: url("../img/allison.png");
 	height: 450px;
 	position: absolute;
 	bottom: 40px;
