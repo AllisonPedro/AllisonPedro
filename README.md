@@ -26,3 +26,7 @@ Publico principal foi: crianças do fundamental com deficiências motoras e de a
 Objetivo do projeto: Tratar através dos jogos tais deficiências.
 
 Responsáveis pelo projeto:  Alunos de Sistemas de informação e Psicologia da UNDB.
+
+
+**Linguagens, Ferramentas e Passa tempo:**
+ | Flutter 💙 | MySQL💜 | HTML 🧡 | Arena of Valor 🎮 |
