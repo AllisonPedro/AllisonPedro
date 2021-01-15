@@ -54,6 +54,6 @@
 
  <p align="center">| Flutter 💙 | MySQL💜 | HTML 🧡 | JavaScript 💜 | Arena of Valor 🎮 | </p>
  
- <img src="http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif" alt="Banana" />
+ <img src="https://media-exp1.licdn.com/dms/image/C4D22AQHKSrVM42xW1g/feedshare-shrink_2048_1536-alternative/0/1610136468865?e=1613606400&v=beta&t=WO34irIhXDAA7P5bUQTyO-aGErdZx2fVIYZ6ynUDUBY" alt="Banana" />
 
  
