@@ -33,10 +33,10 @@
 1º -- Fundamentos de Arquitetura de Sistemas - Órgão emissorDigital Innovation One Inc.Emitido em jan. de 2021.</br>
       <a href="https://certificates.digitalinnovation.one/459914DA">Visualizar credencial - Nº da credencial 459914DA</a> </br>
       
-2º -- Curso de Conceitos de responsividade e experiência do usuário - Órgão emissorDigital Innovation One Inc. Emitido em dez. de 2020
+2º -- Curso de Conceitos de responsividade e experiência do usuário - Órgão emissorDigital Innovation One Inc. Emitido em dez. de 2020</br>
       <a href="https://certificates.digitalinnovation.one/EFBF2377">Visualizar credencial - Nº da credencial EFBF2377</a> </br>
 
-3º -- 
+3º -- Em andamento GitHub.</br>
 
 <h3 align="center">#Projetos que participei</h3>
 
@@ -53,3 +53,7 @@
 <h2 align="center">**Linguagens, Ferramentas e Passa tempo:** </h2>
 
  <p align="center">| Flutter 💙 | MySQL💜 | HTML 🧡 | JavaScript 💜 | Arena of Valor 🎮 | </p>
+ 
+ <img src="http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif" alt="Banana" />
+
+ 
