@@ -31,11 +31,11 @@
 
 <h3 align="center">#Cursos e Certificados</h3>
 1º -- Fundamentos de Arquitetura de Sistemas - Órgão emissorDigital Innovation One Inc.Emitido em jan. de 2021.</br>
-      <a href="https://certificates.digitalinnovation.one/459914DA">Visualizar credencial</a>
+      <a href="https://certificates.digitalinnovation.one/459914DA">Visualizar credencial - Nº da credencial 459914DA</a> </br>
+      
+2º -- Curso de Conceitos de responsividade e experiência do usuário - Órgão emissorDigital Innovation One Inc. Emitido em dez. de 2020
+      <a href="https://certificates.digitalinnovation.one/EFBF2377">Visualizar credencial - Nº da credencial EFBF2377</a> </br>
 
-
-Identificador da credencialNº da credencial 459914DA
-2º -- 
 3º -- 
 
 <h3 align="center">#Projetos que participei</h3>
