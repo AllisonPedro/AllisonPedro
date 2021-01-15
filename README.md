@@ -29,8 +29,9 @@
 4º -- Curso HTML5 e CSS3: módulo 4 de 5 - (Não lançado) -- https://www.cursoemvideo.com/ </br>
 5º -- Curso HTML5 e CSS3: módulo 5 de 5 - (Não lançado) -- https://www.cursoemvideo.com/ </br>
 
+<h3 align="center">#Projetos que participei</h3>
 
-
+<h3 align="center">#Projeto em escola comunitaria</h3>
 <p>Participei de projetos envolvendo a parte Educacional. Entre esses projetos, o que mais aprendi foi o de desenvolver um Jogo educacional para uma escola comunitária na região do olho d'água/são luis.   </p>
 
 <p>Publico principal foi: crianças do fundamental com deficiências motoras e de aprendizado.</p>
