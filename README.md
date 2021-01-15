@@ -41,5 +41,6 @@
 <p>Responsáveis pelo projeto:  Alunos de Sistemas de informação e Psicologia da UNDB.</p>
 
 
-**Linguagens, Ferramentas e Passa tempo:**
+<h2 align="center">**Linguagens, Ferramentas e Passa tempo:** </h2>
+
  | Flutter 💙 | MySQL💜 | HTML 🧡 | Arena of Valor 🎮 |
