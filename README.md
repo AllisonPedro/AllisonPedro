@@ -29,6 +29,15 @@
 4º -- Curso HTML5 e CSS3: módulo 4 de 5 - (Não lançado) -- https://www.cursoemvideo.com/ </br>
 5º -- Curso HTML5 e CSS3: módulo 5 de 5 - (Não lançado) -- https://www.cursoemvideo.com/ </br>
 
+<h3 align="center">#Cursos e Certificados</h3>
+1º -- Fundamentos de Arquitetura de Sistemas - Órgão emissorDigital Innovation One Inc.Emitido em jan. de 2021.</br>
+      <a href="https://certificates.digitalinnovation.one/459914DA">Visualizar credencial</a>
+
+
+Identificador da credencialNº da credencial 459914DA
+2º -- 
+3º -- 
+
 <h3 align="center">#Projetos que participei</h3>
 
 <h3 align="center">#Projeto em escola comunitaria</h3>
