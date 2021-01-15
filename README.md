@@ -54,6 +54,6 @@
 
  <p align="center">| Flutter 💙 | MySQL💜 | HTML 🧡 | JavaScript 💜 | Arena of Valor 🎮 | </p>
  
-![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif "Olha a banana dançando!")
+<img src="http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif" alt="Banana" title="Olha a banana dançando!" />
 
  
