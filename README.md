@@ -54,6 +54,11 @@
 
  <p align="center">| Flutter 💙 | MySQL💜 | HTML 🧡 | JavaScript 💜 | Arena of Valor 🎮 | </p>
  
-<img src="http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif" alt="Banana" title="Olha a banana dançando!" />
+<img src="https://media-exp1.licdn.com/dms/image/C4D22AQHKSrVM42xW1g/feedshare-shrink_2048_1536-alternative/0/1610136468865?e=1613606400&v=beta&t=WO34irIhXDAA7P5bUQTyO-aGErdZx2fVIYZ6ynUDUBY" alt="Banana" title="Olha a banana dançando!" />
+<p>o Github Pages ou Github.io é uma extensão/função do Github que dá acesso a uma pequena hospedagem de site com o intuito de ajudar os desenvolvedores a criar currículos e portfolios com o uso das tecnologias HTML, CSS e JavaScript .</p>
+
+<p>Compartilho aqui meu Portifolio do Github pages para mais novidades e projetos.</p>
+
+<p>https://lnkd.in/d3irQ4h</p>
 
  
