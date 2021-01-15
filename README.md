@@ -31,13 +31,13 @@
 
 
 
-Participei de projetos envolvendo a parte Educacional. Entre esses projetos, o que mais aprendi foi o de desenvolver um Jogo educacional para uma escola comunitária na região do olho d'água/são luis.   
+<p>Participei de projetos envolvendo a parte Educacional. Entre esses projetos, o que mais aprendi foi o de desenvolver um Jogo educacional para uma escola comunitária na região do olho d'água/são luis.   </p>
 
-Publico principal foi: crianças do fundamental com deficiências motoras e de aprendizado.
+<p>Publico principal foi: crianças do fundamental com deficiências motoras e de aprendizado.</p>
 
-Objetivo do projeto: Tratar através dos jogos tais deficiências.
+<p>Objetivo do projeto: Tratar através dos jogos tais deficiências.</p>
 
-Responsáveis pelo projeto:  Alunos de Sistemas de informação e Psicologia da UNDB.
+<p>Responsáveis pelo projeto:  Alunos de Sistemas de informação e Psicologia da UNDB.</p>
 
 
 **Linguagens, Ferramentas e Passa tempo:**
