@@ -43,4 +43,4 @@
 
 <h2 align="center">**Linguagens, Ferramentas e Passa tempo:** </h2>
 
- <p align="center">| Flutter 💙 | MySQL💜 | HTML 🧡 | Arena of Valor 🎮 |</p>
+ <p align="center">| Flutter 💙 | MySQL💜 | HTML 🧡 | JavaScript 💜 | Arena of Valor 🎮 | </p>
