@@ -16,18 +16,18 @@
 
 
 <h3 align="center">#Progesso do estudo em Flutter.</h3>
-1º -- No dia 25/11/2020 iniciei os estudos de Dart.
-2º -- No dia (20/12/2020) iniciei os estudos do Framework Flutter.
+1º -- No dia 25/11/2020 iniciei os estudos de Dart. </br>
+2º -- No dia (20/12/2020) iniciei os estudos do Framework Flutter.</br>
 3º -- 
 4º -- O futuro é nosso..
 
 
 <h3 align="center">#Progresso do estudo em HTML, CSS, JavaScript</h3>
-1º -- Curso HTML5 e CSS3: módulo 1 de 5 - (Em andamento - fazendo) -- https://www.cursoemvideo.com/  
-2º -- Curso HTML5 e CSS3: módulo 2 de 5 - (Não lançado) -- https://www.cursoemvideo.com/ 
-3º -- Curso HTML5 e CSS3: módulo 3 de 5 - (Não lançado) -- https://www.cursoemvideo.com/ 
-4º -- Curso HTML5 e CSS3: módulo 4 de 5 - (Não lançado) -- https://www.cursoemvideo.com/ 
-5º -- Curso HTML5 e CSS3: módulo 5 de 5 - (Não lançado) -- https://www.cursoemvideo.com/ 
+1º -- Curso HTML5 e CSS3: módulo 1 de 5 - (Em andamento - fazendo) -- https://www.cursoemvideo.com/  </br>
+2º -- Curso HTML5 e CSS3: módulo 2 de 5 - (Não lançado) -- https://www.cursoemvideo.com/ </br>
+3º -- Curso HTML5 e CSS3: módulo 3 de 5 - (Não lançado) -- https://www.cursoemvideo.com/ </br>
+4º -- Curso HTML5 e CSS3: módulo 4 de 5 - (Não lançado) -- https://www.cursoemvideo.com/ </br>
+5º -- Curso HTML5 e CSS3: módulo 5 de 5 - (Não lançado) -- https://www.cursoemvideo.com/ </br>
 
 
 
