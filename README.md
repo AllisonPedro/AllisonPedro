@@ -36,7 +36,7 @@
 2º -- Curso de Conceitos de responsividade e experiência do usuário - Órgão emissorDigital Innovation One Inc. Emitido em dez. de 2020</br>
       <a href="https://certificates.digitalinnovation.one/EFBF2377" target="_blank">Visualizar credencial - Nº da credencial EFBF2377</a> </br>
 
-3º -- Em andamento GitHub.</br>
+3º -- Curso de Git e GitHub [20 Horas] -- https://www.cursoemvideo.com/ (Curso em andamento, ainda não possui prova e certificado.)</br>
 
 <h3 align="center">#Projetos que participei</h3>
 
