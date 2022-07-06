@@ -1,8 +1,19 @@
+
+
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme " />
  <h2 align="center">GitHub Readme </h2>
- <p align="center">Olá! Meu nome é Allison Pedro e esse é meu Repositorio do GitHub.</p>
+
 </p>
+
+ **Hi, I'm Allison! <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif" width="50">**
+ 
+ 
+ **About me:**
+- 💻 I'm web developer since 2018
+- ⚛️ JavaScript | Vue | React
+
+
  
  # Allison Pedro / Dart / Flutter 
 
